@@ -1,21 +1,19 @@
-import React from "react";
-import { View, StyleSheet } from "react-native";
-import ButtonMode from "../../components/ButtonMode/ButtonMode";
+import React, { useState } from "react";
+import { Pressable, Text, View } from "react-native";
+import { DARKMODE, LIGHTMODE } from "./styles";
 
 export default function Home() {
+    const [modeUser, setModeUser] = useState(LIGHTMODE);
+
     return (
-        <View style={styles.container}>
-            <ButtonMode />
+        <View style={modeUser.container}>
+            <Pressable style={modeUser.container}
+                onPress={() => {
+
+                    setModeUser(modeUser === DARKMODE ? LIGHTMODE : DARKMODE)
+                }}>
+                <Text style={modeUser.primaryColor}>{'Pressionar aqui'}</Text>
+            </Pressable>
         </View>
     );
 }
-
-const styles = StyleSheet.create({
-    container: {
-      flex: 1,
-      justifyContent: 'center',
-      alignItems: 'center',
-      backgroundColor: 'rgb(20, 180, 23)',
-      width: 400,
-    }
-  });
