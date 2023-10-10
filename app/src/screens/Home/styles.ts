@@ -8,8 +8,6 @@ const BACKGROUND_DARK = '#101010';
 export const LIGHTMODE = StyleSheet.create({
     container: {
         flex: 1,
-        justifyContent: 'center',
-        alignItems: 'center',
         backgroundColor: BACKGROUND_LIGHT,
         width: 400,
         fontSize: 24,
@@ -23,11 +21,20 @@ export const LIGHTMODE = StyleSheet.create({
 export const DARKMODE = StyleSheet.create({
     container: {
         flex: 1,
-        justifyContent: 'center',
-        alignItems: 'center',
         backgroundColor: BACKGROUND_DARK,
         width: 400,
         fontSize: 24,
+    },
+    primaryColor: {
+        backgroundColor: PRIMARY_COLOR_DARK,
+    }
+});
+
+export const BUTTONMODE = StyleSheet.create({
+    container: {
+        justifyContent: 'center',
+        alignItems: 'center',
+        width: 100,
     },
     primaryColor: {
         backgroundColor: PRIMARY_COLOR_DARK,
