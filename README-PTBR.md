@@ -12,8 +12,8 @@ Como funcionalidades temos:
   * **Temporizador**: Ao selecionar o Temporizador, o usuário consegue determinar quanto tempo até ele querer ser notificado.
   * **Cronômetro**: Ao selecionar o Cronômetro, o usuário consegue determinar em quanto tempo ocorreu o início e o fim de um evento.
 * Selecionar entre as duas Opções (*Modo Light ou Modo Dark*); 
-  * **Modo Light**: Ao selecionar o Modo Light, o usuário tem um modo vizualização com cores mais claras.
-  * **Modo Dark**: Ao selecionar o Modo Dark, o usuário tem um modo vizualização com cores mais escuras.
+  * **Modo Light**: Ao selecionar o Modo Light, o usuário tem um modo de vizualização com cores mais claras.
+  * **Modo Dark**: Ao selecionar o Modo Dark, o usuário tem um modo de vizualização com cores mais escuras.
 
 <br/>
 
