@@ -1,4 +1,4 @@
-![Stopwatch Timer Project-banner](https://github.com/GabrielNonnemacher/stopwatch-timer/assets/87139289/51b1f54a-255b-4b4c-b2c0-7249deee05aa)
+![Calculator](https://github.com/GabrielNonnemacher/stopwatch-timer/assets/87139289/59a2fa15-8171-4418-bae2-4beb95314f32)
 -----
 
 ### The timer and stopwatch project is very simple and didactic. The intention of this project is to serve as inspiration for more people, to further consolidate my portfolio and also to cover new knowledge and tools for me.
