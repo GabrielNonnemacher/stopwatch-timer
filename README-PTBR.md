@@ -1,4 +1,4 @@
-![Cronômetro   Temporizador-banner](https://github.com/GabrielNonnemacher/stopwatch-timer/assets/87139289/c6b93587-4730-481e-b752-2de2fa89df05)
+![Calculator](https://github.com/GabrielNonnemacher/stopwatch-timer/assets/87139289/ba14e21e-15d4-48e9-acce-1eb527003d58)
 -----
 
 ### O projeto do temporizador e cronômetro é bem simples e didático. A intenção desse projeto é servir de inspiração para mais pessoas, consolidar ainda mais meu portifólio e também tem o intuito de abranger novos conhecimento e ferramentas para mim. 
